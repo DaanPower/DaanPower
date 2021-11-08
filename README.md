@@ -1,7 +1,8 @@
-Hey, there i'm DaanPower 👋
+Hey, there I'm DaanPower 👋
 
-i'm a programming enthousiast mainly focusing on Python,
-i try to upload as many projects on here.
+I'm a programming enthusiast currently focusing on languages such as Python, Swift, C and C++.
 
-Aldo most of them are private, so don't expect a new project every month.
-thank you for reading this and hope you have a great rest of your day :D
+Trying my best to post as much quality projects as possible here,
+but sadly most of them are private and for studying purposes only.
+
+Thanks for reading and I hope you have a great rest of your day!
