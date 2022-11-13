@@ -1,6 +1,6 @@
 Hey, there I'm DaanPower 👋
 
-I'm a programming enthusiast currently focusing on languages such as Python, Swift, C and C++.
+I'm a programming enthusiast currently focusing on languages such as Python, Swift and C++.
 
 My main hobbies excluding programming are typing, science, space, mathematics, nature & chess.
 Here's my monkeytype account: https://monkeytype.com/profile/DaanPower
