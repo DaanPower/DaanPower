@@ -1,11 +1,9 @@
-Hey, there I'm DaanPower 👋
+I'm a programming hobbyist focusing on Python! 👋
 
-I'm a programming enthusiast currently focusing on languages such as Python, Swift and C++.
+Other hobbies of mine include: typing, science, space, mathematics, nature & chess.
 
-My main hobbies excluding programming are typing, science, space, mathematics, nature & chess.
-Here's my monkeytype account: https://monkeytype.com/profile/DaanPower
+I try to even out my time but it doesn't work all the time, so my projects are a little less active.
+Also most of my projects are private, so please excuse that!
+I am working on making them open-source.
 
-Trying my best to post as much quality projects as possible here,
-but sadly most of them are private and for studying purposes only.
-
-Thanks for reading and I hope you have a great rest of your day!
+Thank you for reading!
