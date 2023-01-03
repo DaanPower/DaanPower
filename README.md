@@ -6,4 +6,4 @@ I try to even out my time but it doesn't work all the time, so my projects are a
 Also most of my projects are private, so please excuse that!
 I am working on making them open-source.
 
-Thank you for reading!
+Hopefully my projects aspire or help you somehow!
